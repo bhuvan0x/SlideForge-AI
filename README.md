@@ -10,7 +10,7 @@
 
 Instead of creating an actual PowerPoint file, SlideForge AI generates **what each slide should contain, slide by slide** — including titles, key points, structure, and presentation direction.
 
-🔗 **Live Demo:** https://ephemeral-manatee-d85a08.netlify.app/
+🔗 **Live Demo:** (https://slideforge-ai.netlify.app)
 
 ---
 
@@ -315,7 +315,7 @@ An AI-powered tool for turning presentation requirements into **structured, slid
 
 ### Live Website
 
-https://ephemeral-manatee-d85a08.netlify.app/
+https://slideforge-ai.netlify.app
 
 ---
 

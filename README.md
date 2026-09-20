@@ -297,9 +297,6 @@ AI generation is intended to assist the user, not replace human review.
 
 ## 📜 License
 
-Add your preferred open-source license here.
-
-For example:
 
 ```text
 MIT License
